@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|d:\\labs\\labwork07\\lab08\\starter\\testdisplay\\testdisplay\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|solutionrelative:testdisplay\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|d:\\labs\\labwork07\\lab08\\starter\\testdisplay\\testdisplay\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|solutionrelative:testdisplay\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|d:\\labs\\labwork07\\lab08\\starter\\testdisplay\\testdisplay\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|solutionrelative:testdisplay\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|d:\\labs\\labwork07\\lab08\\starter\\testdisplay\\testdisplay\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15D77FE-AD2E-4D31-991B-26F4788E43F5}|TestDisplay\\TestDisplay.csproj|solutionrelative:testdisplay\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\IPrintable.cs",
+              "RelativeDocumentMoniker": "TestDisplay\\IPrintable.cs",
+              "ToolTip": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\IPrintable.cs",
+              "RelativeToolTip": "TestDisplay\\IPrintable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:50:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Coordinate.cs",
+              "RelativeDocumentMoniker": "TestDisplay\\Coordinate.cs",
+              "ToolTip": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Coordinate.cs",
+              "RelativeToolTip": "TestDisplay\\Coordinate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:47:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Utils.cs",
+              "RelativeDocumentMoniker": "TestDisplay\\Utils.cs",
+              "ToolTip": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Utils.cs",
+              "RelativeToolTip": "TestDisplay\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:36:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Test.cs",
+              "RelativeDocumentMoniker": "TestDisplay\\Test.cs",
+              "ToolTip": "D:\\Labs\\LabWork07\\Lab08\\Starter\\TestDisplay\\TestDisplay\\Test.cs",
+              "RelativeToolTip": "TestDisplay\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:36:27.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\bin\Debug\net8.0\TestDisplay.exe
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\bin\Debug\net8.0\TestDisplay.deps.json
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\bin\Debug\net8.0\TestDisplay.runtimeconfig.json
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\bin\Debug\net8.0\TestDisplay.dll
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\bin\Debug\net8.0\TestDisplay.pdb
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.AssemblyInfoInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.AssemblyInfo.cs
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.sourcelink.json
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.dll
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\refint\TestDisplay.dll
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.pdb
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\TestDisplay.genruntimeconfig.cache
+D:\Labs\LabWork07\Lab08\Starter\TestDisplay\TestDisplay\obj\Debug\net8.0\ref\TestDisplay.dll
