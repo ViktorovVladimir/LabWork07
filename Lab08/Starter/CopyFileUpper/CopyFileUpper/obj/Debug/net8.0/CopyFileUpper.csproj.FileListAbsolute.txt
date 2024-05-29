@@ -1,0 +1,15 @@
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net8.0\CopyFileUpper.exe
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net8.0\CopyFileUpper.deps.json
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net8.0\CopyFileUpper.runtimeconfig.json
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net8.0\CopyFileUpper.dll
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net8.0\CopyFileUpper.pdb
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.AssemblyInfoInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.AssemblyInfo.cs
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.sourcelink.json
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.dll
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\refint\CopyFileUpper.dll
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.pdb
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\CopyFileUpper.genruntimeconfig.cache
+D:\Labs\LabWork07\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net8.0\ref\CopyFileUpper.dll
