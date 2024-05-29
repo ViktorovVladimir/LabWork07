@@ -1,0 +1,15 @@
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\bin\Debug\net8.0\Utils.exe
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\bin\Debug\net8.0\Utils.deps.json
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\bin\Debug\net8.0\Utils.runtimeconfig.json
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\bin\Debug\net8.0\Utils.dll
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\bin\Debug\net8.0\Utils.pdb
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.dll
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\refint\Utils.dll
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.pdb
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\Utils.genruntimeconfig.cache
+D:\Labs\LabWork07\Lab08\Starter\Utils\Utils\obj\Debug\net8.0\ref\Utils.dll
