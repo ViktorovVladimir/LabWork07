@@ -1,5 +1,5 @@
 ﻿
-using System.Security.Principal;
+using System;
 
 class BankAccount
 {
@@ -61,5 +61,15 @@ class BankAccount
         //--.
         return sufficientFunds;
     }
+
+    //--.
+    public void TransferFrom(BankAccount accFrom, decimal amount) 
+    { 
+        //--.
+        if( accFrom.Withdraw(amount) )
+        {
+            this.Deposit(amount);
+        }
+    } 
 
 }
