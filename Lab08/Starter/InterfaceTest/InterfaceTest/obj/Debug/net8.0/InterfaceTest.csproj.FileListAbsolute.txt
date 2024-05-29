@@ -1,0 +1,15 @@
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.AssemblyInfoInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.AssemblyInfo.cs
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.sourcelink.json
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net8.0\InterfaceTest.exe
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net8.0\InterfaceTest.deps.json
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net8.0\InterfaceTest.runtimeconfig.json
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net8.0\InterfaceTest.dll
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net8.0\InterfaceTest.pdb
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.dll
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\refint\InterfaceTest.dll
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.pdb
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\InterfaceTest.genruntimeconfig.cache
+D:\Labs\LabWork07\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net8.0\ref\InterfaceTest.dll
